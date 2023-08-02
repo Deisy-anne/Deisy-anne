@@ -9,7 +9,7 @@
 ### Technologies I use in my day
 
 <div style="display: inline_block"><br/>
-  <img align="center" alt="Python" src="https://img.shields.io/badge/Python-356A96?style=for-the-badge&logo=python&logoColor=white" />
+  <img align="center" alt="Python" src="https://img.shields.io/badge/Python-%23fff?style=for-the-badge&logo=python&logoColor=%231c1e21" />
   <img align="center" alt="django" src="https://img.shields.io/badge/django-%230c4b33?style=for-the-badge&logoColor=white"/>
   <img align="center" alt="django REST framework" src="https://img.shields.io/badge/django%20rest%20framework-%23333333?style=for-the-badge&color=%23fff"/>
   
